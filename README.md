@@ -14,6 +14,17 @@ The project for the GirlScript Hackathon2k21, concerning a project that will hel
 ## Delivery Boys Application(Basic Needs Application)
 ![Delivery Boys Orders Page](https://cdn.discordapp.com/attachments/913788780324991007/914543430300999730/WhatsApp_Image_2021-11-28_at_11.53.35.jpeg)
 
+## Admin Portal(Basic Needs Application)
+![Admin Portal Banner Page](https://cdn.discordapp.com/attachments/913788780324991007/914541296906018826/WhatsApp_Image_2021-11-28_at_11.57.25.jpeg)
+
+![Vendor List Page](https://cdn.discordapp.com/attachments/913788780324991007/914541297157673031/WhatsApp_Image_2021-11-28_at_11.57.54.jpeg)
+
+![Delivery Boys Information Page](https://cdn.discordapp.com/attachments/913788780324991007/914541297409351680/WhatsApp_Image_2021-11-28_at_11.58.27.jpeg)
+
+![Categories Page](https://cdn.discordapp.com/attachments/913788780324991007/914541297749098566/WhatsApp_Image_2021-11-28_at_11.58.55.jpeg)
+
+![Subcategory for each category](https://cdn.discordapp.com/attachments/913788780324991007/914541298063663114/WhatsApp_Image_2021-11-28_at_11.59.16.jpeg)
+
 ## Inspiration
 Covid has been a curse to mankind.  It has affected every walk of life, from the education sector to the business sector. The local vendors who were dependent on the daily customers who bought their items from their shops have been affected the most. Small businesses have suffered a lot. So team Technocrats has decided to step up in this hour of need and we have proposed an idea of an application which shall be helpful for both the customers as well as the vendors. "CovMart" shall be the one-stop solution for both the parties as it shall deliver to you the best of the products from the trusted vendors of your locality.
 
