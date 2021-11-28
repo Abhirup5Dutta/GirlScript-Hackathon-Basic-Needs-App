@@ -13,6 +13,8 @@ Run _git clone [repository link]_ to clone the repository
 
 [Video documentation link from Youtube](https://youtu.be/ftunY9PKh54)
 
+![Video Documentation Video](https://youtu.be/ftunY9PKh54)
+
 [Website link of Admin Portal](basic-needs-admin-portal.netlify.app)
 
 ## Major Application Images(Basic Needs Application)
