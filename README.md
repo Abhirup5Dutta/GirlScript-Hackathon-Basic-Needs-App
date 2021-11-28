@@ -11,6 +11,8 @@ Run _git clone [repository link]_ to clone the repository
 2. Run _npm install_
 3. Then run _npm start_
 
+[Video documentation link from Youtube](https://youtu.be/ftunY9PKh54)
+
 [Website link of Admin Portal](basic-needs-admin-portal.netlify.app)
 
 ## Major Application Images(Basic Needs Application)
