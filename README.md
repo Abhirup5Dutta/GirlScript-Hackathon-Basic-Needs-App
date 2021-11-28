@@ -1,6 +1,9 @@
 # GirlScript-Hackathon-Basic-Needs-App
 The project for the GirlScript Hackathon2k21, concerning a project that will help local people to rise from the loss suffered during covid.
 
+## Major Application Image
+[Basic Needs Application](https://cdn.discordapp.com/attachments/913788780324991007/914543429453766656/WhatsApp_Image_2021-11-28_at_11.53.30_1.jpeg)
+
 ## Inspiration
 Covid has been a curse to mankind.  It has affected every walk of life, from the education sector to the business sector. The local vendors who were dependent on the daily customers who bought their items from their shops have been affected the most. Small businesses have suffered a lot. So team Technocrats has decided to step up in this hour of need and we have proposed an idea of an application which shall be helpful for both the customers as well as the vendors. "CovMart" shall be the one-stop solution for both the parties as it shall deliver to you the best of the products from the trusted vendors of your locality.
 
