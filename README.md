@@ -1,6 +1,18 @@
 # GirlScript-Hackathon-Basic-Needs-App
 The project for the GirlScript Hackathon2k21, concerning a project that will help local people to rise from the loss suffered during covid.
 
+## Steps to Install
+Run _git clone [repository link]_ to clone the repository
+**The first, third and fourth applications are made using flutter and dart and in order to run teh applications in any android phone, we need to runn the following:**
+1. After opening the particular folders, we need to run flutter run after connecting to any device or emulator.
+
+**The second application is made using Reactjs based on JavaScript, we can run the application by following:**
+1. Open to the folder
+2. Run _npm install_
+3. Then run _npm start_
+
+[Website link of Admin Portal](basic-needs-admin-portal.netlify.app)
+
 ## Major Application Images(Basic Needs Application)
 ![Basic Needs Application](https://cdn.discordapp.com/attachments/913788780324991007/914543429453766656/WhatsApp_Image_2021-11-28_at_11.53.30_1.jpeg)
 
@@ -24,6 +36,10 @@ The project for the GirlScript Hackathon2k21, concerning a project that will hel
 ![Categories Page](https://cdn.discordapp.com/attachments/913788780324991007/914541297749098566/WhatsApp_Image_2021-11-28_at_11.58.55.jpeg)
 
 ![Subcategory for each category](https://cdn.discordapp.com/attachments/913788780324991007/914541298063663114/WhatsApp_Image_2021-11-28_at_11.59.16.jpeg)
+
+**Here firebase is used as a backend service to use the authentication with firestore database.**
+_Following is the firestore database link_
+![Firestore database](https://cdn.discordapp.com/attachments/913788780324991007/914602791765430362/unknown.png)
 
 ## Inspiration
 Covid has been a curse to mankind.  It has affected every walk of life, from the education sector to the business sector. The local vendors who were dependent on the daily customers who bought their items from their shops have been affected the most. Small businesses have suffered a lot. So team Technocrats has decided to step up in this hour of need and we have proposed an idea of an application which shall be helpful for both the customers as well as the vendors. "CovMart" shall be the one-stop solution for both the parties as it shall deliver to you the best of the products from the trusted vendors of your locality.
